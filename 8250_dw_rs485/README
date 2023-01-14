@@ -1,0 +1,2 @@
+8250 add rs485 support.
+original patch: https://patchwork.kernel.org/project/linux-arm-kernel/patch/1404928177-26554-6-git-send-email-bigeasy@linutronix.de/
